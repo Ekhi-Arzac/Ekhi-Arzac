@@ -2,7 +2,7 @@ Ekhi Arzac
 ==================================================================================================================================
 
 # 💫 About Me:
-* 🔭 I’m currently working on an ansi C Doom-like 3D engine<br>
+* 🔭 I’m currently working on an ANSI C Doom-like 3D engine<br>
 * 🌱 I’m currently delving into the Rust toolchain and low level programming in C<br>
 * ⚡ 2nd year of CS at University of the Basque Country - UPV/EHU<br>
 * 🤝 I am actively seeking new opportunities and projects related to the realm of Graphic Engines and Operating Systems
